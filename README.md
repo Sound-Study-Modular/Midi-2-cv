@@ -122,7 +122,6 @@ In these modes, the Midi 2 CV behaves like a classic monophonic CV-Gate converte
 The resolution of the clock trigger depends on the MIDI channel used: 24 ppqn for channel 12; 8 ppqn for channel 13; 4 ppqn for channel 14.
 
 The Midi 2 CV is open source hardware
-The original design for this project is Creative Commons licensed by Tom Whitwell: CC-BY-SA: Attribution / ShareAlike
-If you decide you would like to use this project in part or whole in your own design, please credit SoundStudy Modular, and change the logo and name.
-This license does permit commercial use of these designs, but consider getting in touch before selling anything.
-This project includes work from the Teensy project, which is not covered by this license. The suggested audio content is not covered by this license. 
+The original design for this project is Creative Commons licensed by Olivier Gillet: CC-BY-SA: Attribution / ShareAlike
+If you decide you would like to use this project in part or whole in your own design, please credit Mutable Instruments and change the logo and name.
+This license does permit commercial use of these designs, but consider getting in touch with Mutable Instruments before selling anything.
